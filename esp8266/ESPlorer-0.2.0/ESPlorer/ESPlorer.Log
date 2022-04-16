@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-29T08:24:16</date>
+  <millis>1635510256508</millis>
+  <sequence>5</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>LAFcom.sun.java.swing.plaf.windows.WindowsLookAndFeel</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:16</date>
+  <millis>1635510256509</millis>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>LAFcom.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:16</date>
+  <millis>1635510256513</millis>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>LAFcom.sun.java.swing.plaf.motif.MotifLookAndFeel</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:16</date>
+  <millis>1635510256514</millis>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>LAFjavax.swing.plaf.nimbus.NimbusLookAndFeel</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:16</date>
+  <millis>1635510256515</millis>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>LAFjavax.swing.plaf.metal.MetalLookAndFeel</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:16</date>
+  <millis>1635510256736</millis>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>Load saved settings: Firmware:NodeMCU</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:16</date>
+  <millis>1635510256739</millis>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:16</date>
+  <millis>1635510256750</millis>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:16</date>
+  <millis>1635510256794</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:16</date>
+  <millis>1635510256796</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:16</date>
+  <millis>1635510256797</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:16</date>
+  <millis>1635510256799</millis>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:17</date>
+  <millis>1635510257023</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:17</date>
+  <millis>1635510257506</millis>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>found last saved serial port COM3</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:17</date>
+  <millis>1635510257507</millis>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>found COM4</message>
+</record>
+<record>
+  <date>2021-10-29T08:24:17</date>
+  <millis>1635510257508</millis>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2021-10-29T09:45:14</date>
+  <millis>1635515114840</millis>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>FileTab cleared: Success.</message>
+</record>
+<record>
+  <date>2021-10-29T09:45:14</date>
+  <millis>1635515114840</millis>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>24</thread>
+  <message>File close: Success.</message>
+</record>
+</log>

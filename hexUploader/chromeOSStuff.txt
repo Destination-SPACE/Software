@@ -1,0 +1,2 @@
+Extract tar.gz on Chrome OS:https://www.aboutchromebooks.com/news/how-to-install-libreoffice-for-linux-on-a-chromebook-after-downloading-it-as-a-tar-gz-file/
+.hex uploader for Windows and Linux: https://github.com/SuperNinja-4965/Arduino-Hex-Uploader/releases/tag/1.2
